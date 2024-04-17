@@ -1,0 +1,62 @@
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5rem 6rem;
+}
+.container h2 {
+  font-size: 2rem;
+  margin-bottom: 4rem;
+  text-align: start;
+}
+
+.container .card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 1.5rem;
+}
+.card-item {
+  background-color: #f3f4f6;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+.card-item h3 {
+  text-align: start;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.card-item p {
+  color: #898989;
+  text-align: start;
+}
+
+.service-flex {
+  display: flex;
+  gap: 5rem;
+  margin-bottom: 5rem;
+}
+.service-flex img {
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+.service-flex-item {
+  /* padding: 4rem 0; */
+}
+.service-flex h2,
+.service-flex h2 {
+  font-size: 2.5rem;
+  text-align: start;
+  margin-bottom: 1.5rem;
+}
+.service-flex p,
+.service-flex p {
+  text-align: start;
+  line-height: 1.5rem;
+  color: #000;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+.service-flex-item button {
+  margin-top: 0.2rem;
+}

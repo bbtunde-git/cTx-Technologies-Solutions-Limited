@@ -1,0 +1,32 @@
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5rem 6rem;
+}
+.container h2 {
+  font-size: 3rem;
+  margin-bottom: 4rem;
+}
+
+.container .card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 1.5rem;
+}
+.card-item {
+  background-color: #f3f4f6;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.card-item h3 {
+  text-align: start;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.card-item p {
+  color: #898989;
+  text-align: start;
+}
+.card-item button {
+  color: white;
+}

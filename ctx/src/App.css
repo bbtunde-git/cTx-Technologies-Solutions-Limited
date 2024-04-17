@@ -1,0 +1,25 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Serif", serif;
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 6rem;
+}
+.btn {
+  background-color: #673657;
+  color: #fff;
+  border: none;
+  padding: 1rem 3rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+}

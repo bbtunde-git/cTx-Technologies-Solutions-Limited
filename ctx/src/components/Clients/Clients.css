@@ -1,0 +1,15 @@
+.client-container {
+  background-color: #f3f4f6;
+}
+.container h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+.grid-item {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color: transparent;
+}

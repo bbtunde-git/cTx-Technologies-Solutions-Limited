@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: #2a3030;
+  text-align: center;
+  padding: 5rem 0;
+}
+.footer-container {
+  padding: 1rem;
+}
+.footer-item h2 {
+  font-size: 1rem;
+  font-weight: 200;
+  color: #fff;
+}

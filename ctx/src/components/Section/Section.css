@@ -1,0 +1,42 @@
+.section-container {
+  background-color: #f7f4f6;
+}
+.flex-1 {
+  display: flex;
+  gap: 5rem;
+  margin-bottom: 5rem;
+}
+.flex-1 img {
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+.flex-2 {
+  display: flex;
+  gap: 5rem;
+}
+.flex-2 img {
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+.flex-item {
+  padding: 4rem 0;
+}
+.flex-1 h2,
+.flex-2 h2 {
+  font-size: 2.5rem;
+  text-align: start;
+  margin-bottom: 1.5rem;
+}
+.flex-1 p,
+.flex-2 p {
+  text-align: start;
+  line-height: 1.5rem;
+  color: #000;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+.flex-item button {
+  margin-top: 2rem;
+}
