@@ -1,0 +1,49 @@
+.page-container {
+  background-color: #f7f4f6;
+}
+.contact-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5rem;
+}
+.contact-item {
+  width: 100%;
+  margin-bottom: auto;
+}
+.contact-item h2 {
+  font-size: 2.5rem;
+  text-align: start;
+  margin-bottom: 1.5rem;
+}
+.contact-item p {
+  text-align: start;
+  line-height: 1.5rem;
+  color: #000;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+.contact-form {
+  width: 100%;
+}
+.contact-form label,
+.contact-form input {
+  display: block;
+}
+.contact-form label {
+  font-weight: 600;
+}
+.contact-form input {
+  width: 100%;
+  height: 3rem;
+  outline: none;
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+}
+.contact-form textarea {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
