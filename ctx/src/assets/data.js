@@ -23,28 +23,24 @@ export const serviceProvided = [
     title: "Enterprise Software",
     description:
       "We offer robust and scalable enterprise software solutions that streamline your business processes, improve collaboration, and enhance productivity, making your organization more efficient and profitable",
-    button: "Read More",
   },
   {
     id: 2,
     title: "IT Consulting",
     description:
       "Our IT consulting services provide expert guidance to help your organization make informed decisions, reduce costs, and increase efficiency, while ensuring compliance with industry regulations and standards.",
-    button: "Read More",
   },
   {
     id: 3,
     title: "Cloud Solutions",
     description:
       "Our cloud solutions provide scalable, secure, and flexible cloud-based infrastructure and applications that enable your organization to be more agile, efficient, and cost-effective.",
-    button: "Read More",
   },
   {
     id: 4,
     title: "Data Analytics",
     description:
       "Our data analytics services provide insights that help organizations make informed decisions, optimize their operations, and gain a competitive edge in the market.",
-    button: "Read More",
   },
 ];
 

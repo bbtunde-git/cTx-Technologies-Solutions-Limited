@@ -13,7 +13,6 @@ function Services() {
                 <div key={"id"} className="card-item">
                   <h3>{service.title}</h3>
                   <p>{service.description}</p>
-                  <button className="btn">{service.btn}</button>
                 </div>
               );
             })}
